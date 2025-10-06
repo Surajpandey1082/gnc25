@@ -1,0 +1,21 @@
+1.A.Aim:-A.Write a MongoDB query to create and drop database. 
+ 
+Create : 
+ 
+Syntax :-  
+Use database_name 
+ 
+Source code:-  
+Use mydb 
+
+ 
+Drop :- 
+ 
+Syntax :-  db.dropDatabase()  
+ 
+Source code:-  db.dropDatabase() 
+ 
+Output:- 
+        
+ 
+ 
