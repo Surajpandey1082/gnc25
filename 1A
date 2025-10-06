@@ -14,8 +14,3 @@ Drop :-
 Syntax :-  db.dropDatabase()  
  
 Source code:-  db.dropDatabase() 
- 
-Output:- 
-        
- 
- 
